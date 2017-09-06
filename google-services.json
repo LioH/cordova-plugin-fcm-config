@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "618220945806",
+    "firebase_url": "https://planrmobile.firebaseio.com",
+    "project_id": "planrmobile",
+    "storage_bucket": "planrmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618220945806:android:7a552287e08b8d70",
+        "android_client_info": {
+          "package_name": "com.phonegap.planrmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618220945806-l5sipe0jnrslbpqetj55qk3jbavllaid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI3lZImq9bVsLmGs2tzmqnUJBDD8c91KI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
