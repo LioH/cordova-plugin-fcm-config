@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>618220945806-g72k86go82t3ha9qtpqp1lflbdu2gk3f.apps.googleusercontent.com</string>
+	<string>621335495544-hq4humrguemfvkuv2j292gbig9ocl2tb.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.618220945806-g72k86go82t3ha9qtpqp1lflbdu2gk3f</string>
+	<string>com.googleusercontent.apps.621335495544-hq4humrguemfvkuv2j292gbig9ocl2tb</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAwa6Qgw_ed4YVmNPrKJlf6TAgGt3WAvtc</string>
+	<string>AIzaSyBvRL7sJhmQz0lvGk6NFu__I0x-cI6kuXI</string>
 	<key>GCM_SENDER_ID</key>
-	<string>618220945806</string>
+	<string>621335495544</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.phonegap.planrmobile</string>
+	<string>com.phonegap.shyfter</string>
 	<key>PROJECT_ID</key>
-	<string>planrmobile</string>
+	<string>planr-176019</string>
 	<key>STORAGE_BUCKET</key>
-	<string>planrmobile.appspot.com</string>
+	<string>planr-176019.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:618220945806:ios:7a552287e08b8d70</string>
+	<string>1:621335495544:ios:df69aa6d95c78974</string>
 	<key>DATABASE_URL</key>
-	<string>https://planrmobile.firebaseio.com</string>
+	<string>https://planr-176019.firebaseio.com</string>
 </dict>
 </plist>
