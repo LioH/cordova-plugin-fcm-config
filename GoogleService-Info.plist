@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>621335495544-hq4humrguemfvkuv2j292gbig9ocl2tb.apps.googleusercontent.com</string>
+	<string>1044644905166-8pp68tknmhvqgl6blj0h8fj7e4clcots.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.621335495544-hq4humrguemfvkuv2j292gbig9ocl2tb</string>
+	<string>com.googleusercontent.apps.1044644905166-8pp68tknmhvqgl6blj0h8fj7e4clcots</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBvRL7sJhmQz0lvGk6NFu__I0x-cI6kuXI</string>
+	<string>AIzaSyBoZltktryvtu9bJXB3Eg1Fz1rSRGmPKlo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>621335495544</string>
+	<string>1044644905166</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.phonegap.shyfter</string>
 	<key>PROJECT_ID</key>
-	<string>planr-176019</string>
+	<string>shyfter-co</string>
 	<key>STORAGE_BUCKET</key>
-	<string>planr-176019.appspot.com</string>
+	<string>shyfter-co.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:621335495544:ios:df69aa6d95c78974</string>
+	<string>1:1044644905166:ios:df69aa6d95c78974</string>
 	<key>DATABASE_URL</key>
-	<string>https://planr-176019.firebaseio.com</string>
+	<string>https://shyfter-co.firebaseio.com</string>
 </dict>
 </plist>
