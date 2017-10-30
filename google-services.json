@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "621335495544",
-    "firebase_url": "https://planr-176019.firebaseio.com",
-    "project_id": "planr-176019",
-    "storage_bucket": "planr-176019.appspot.com"
+    "project_number": "1044644905166",
+    "firebase_url": "https://shyfter-co.firebaseio.com",
+    "project_id": "shyfter-co",
+    "storage_bucket": "shyfter-co.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:621335495544:android:df69aa6d95c78974",
+        "mobilesdk_app_id": "1:1044644905166:android:df69aa6d95c78974",
         "android_client_info": {
           "package_name": "com.phonegap.shyfter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "621335495544-5ke47v9bfk0kulc5hm67ngc63jtov7e2.apps.googleusercontent.com",
+          "client_id": "1044644905166-gbna40s64422uqi24o7qbnqs1jmcgvvt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDorbSAqcIq6G4oUC6Eg3oDEwuW3DHzhTo"
+          "current_key": "AIzaSyAPbeDB6i_1bPWU25X_plrn8anepk_q-Mc"
         }
       ],
       "services": {
